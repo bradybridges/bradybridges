@@ -7,19 +7,10 @@
   
 <br />
 
--  I am currently working at Zinnfinity ***helping businesses reach their potential on the web***
--  Technologies I frequently use: ***React, JavaScript, Gatsby, Node, SASS/SCSS, NPM, GIT***
--  In my free time I've been working on ***an application to help users keep track of upcoming space-bound rocket launches***
--  If you have any projects you would like to colaborate, reach out to me.
--  I am ***open to work***, feel free to reach out with any questions.
-
-
 </h4>
 </div>
 
 <br />
-
-<div><p>My overview: </p></div>
 
 ![BradyBridges's github stats](https://github-readme-stats.vercel.app/api?username=bradybridges&show_icons=true)
 <br />
