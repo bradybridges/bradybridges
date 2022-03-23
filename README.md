@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-bradybridges-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brady-bridges/)](https://www.linkedin.com/in/brady-bridges/)
 [![Gmail Badge](https://img.shields.io/badge/-bradyjbridges-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bradyjbridges@gmail.com)](mailto:bradyjbridges@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/-Resume-black?style=flat&logo=File&logoColor=white&link=https://drive.google.com/file/d/1pt8czYcvQv17Lge5uLnmfLXSThlFjFxg/view?usp=sharing)](https://drive.google.com/file/d/1pt8czYcvQv17Lge5uLnmfLXSThlFjFxg/view?usp=sharing)
 <div>
   
 <br />
