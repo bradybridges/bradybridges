@@ -11,9 +11,6 @@
 
 <br />
 
-![BradyBridges's github stats](https://github-readme-stats.vercel.app/api?username=bradybridges&show_icons=true)
-<br />
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bradybridges.bradybridges) 
 
 <br />
