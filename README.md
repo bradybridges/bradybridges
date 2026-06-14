@@ -1,14 +1,12 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/bradybridges">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradybridges&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="bradybridges's GitHub Stats" />
-  </a>
   <img src="https://streak-stats.demolab.com/?user=bradybridges&theme=github_dark&hide_border=true&cache_seconds=86400" alt="bradybridges's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=bradybridges&theme=github_dark&radius=10" alt="bradybridges's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=bradybridges&theme=dracula&radius=10" alt="bradybridges's Activity Graph" />
 </p>
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=bradybridges.bradybridges) 
 
 ## 🛠️ Languages & Tools
 
